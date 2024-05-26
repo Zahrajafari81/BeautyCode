@@ -1,0 +1,41 @@
+.outercontainer{
+    display: flex;
+    flex-direction: row;
+    justify-content:end;
+    margin: 13px 12px 100px 12px;
+
+}
+.rightcontainer{
+    display: flex;
+    flex-direction: row;
+   
+}
+.logo{
+    display: inline-block;
+    padding: 10px 16px 0px 16px;
+    margin-top: 13px;
+    
+}
+
+
+.searchbox{
+background-color: #F0F0F1;
+margin-top: 13px;
+padding:  10px 50px 10px 500px;
+border-radius: 10px;
+font-size: 12px;
+border-color: #F0F0F1 ;
+}
+.showCountOnShoppingLogo{
+    
+    text-align: center;
+    width: 1em; 
+    font-size: 0.5em;
+    border-radius:3em;
+    height: 1em;
+    border-style: none;
+    background-color: #b9271d;
+    color: rgb(241, 235, 235);  
+    padding: 5px;
+    
+}

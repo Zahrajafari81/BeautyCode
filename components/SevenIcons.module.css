@@ -1,0 +1,28 @@
+.outerContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 80%;
+    margin: 2em auto;
+   
+   
+ 
+}
+.outerContainer link{
+    text-decoration: none;
+}
+.itemContainer{
+    display: flex;
+    flex-direction: column;
+   align-items: center;
+   
+}
+.itemContainer label{
+    text-decoration-line:none;
+    color: black;
+ }
+ .lable{
+    text-decoration: none;
+    list-style: none;
+   
+ }

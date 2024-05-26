@@ -1,0 +1,82 @@
+.container{
+    display: flex;
+    flex-direction: column;
+}
+.outercontainer{
+    display: flex;
+    flex-direction: row;
+    margin: 17px 185px;
+    height: 109px;
+    border-radius: 15px;
+    background-color: rgb(253, 231, 200);
+    justify-content: space-between;
+}
+.rightcontainer{
+    display: flex;
+    flex-direction: row;
+    margin-right: 45px;
+    align-items: center;
+    justify-content:space-between;
+}
+.takhfif{
+    background-color: #39AE00;
+    border-radius: 20px;
+    padding:5px 8px;
+    font-size: 14px;
+    font-weight: bold;
+    margin-right: 15px;
+}
+.text{
+    margin-right: 15px;
+}
+.leftcontainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 45px;
+}
+.sadKala{
+    color: #39AE00;
+    border-radius: 30px;
+    background-color:white;
+    padding: 15px 10px;
+}
+.circleimage{
+    padding: 0 10px;
+    border-radius: 50%;
+}
+.bottomContainer{
+    display: flex;
+    flex-direction: row;
+    margin: 1px 185px;
+    justify-content: space-between;
+
+}
+.fourimages{
+border-radius: 15px;
+
+}
+.lastContainer{
+    display: flex;
+    flex-direction: row;
+    margin:20px 185px;
+    justify-content:space-between ;
+}
+.barandContainer{
+display: flex;
+flex-direction: column;
+}
+.barandTitle{
+direction: rtl;
+font-weight: bold;
+margin: 50px 185px;
+}
+.barandImage{
+    display: flex;
+    margin: 10px 185px;
+
+    justify-content:space-between;
+    align-items: center;
+    background-color: rgb(248, 243, 243);
+}

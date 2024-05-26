@@ -1,0 +1,132 @@
+
+.outerContainer {
+  height: 60px;
+  
+  
+}
+
+.banner {
+  height: unset !important;
+}
+.mainContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 60px;
+ 
+}
+.rightmainContainer {
+  display: flex;
+  align-items: center;
+  padding-right: 20px;
+  position: relative;
+ 
+}
+.logo {
+  display: inline;
+  padding: 10px 16px 0px 16px;
+  margin-top: 13px;
+}
+.searchbox {
+  background-color: rgb(231, 229, 229);
+  margin-top: 13px;
+  padding: 10px 50px 10px 500px;
+  /* border-radius: 10px; */
+  font-size: 12px;
+  /* border-color: rgb(253, 231, 200); */
+  height: 35px;
+  color: black;
+  border: none;
+  outline: none;
+}
+
+.search{
+  display: flex;
+  flex-direction: row;
+  background-color: rgb(231, 229, 229);
+  margin-top: 10px; 
+  border-radius: 10px;  
+  align-items: center;
+  justify-content: center;
+  
+}
+.leftmainContainer {
+  display: flex;
+  align-items: center;
+  padding-left: 20px;
+  position: relative;
+  
+}
+
+.showCountOnShoppingLogo {
+  text-align: center;
+  font-size: 0.5em;
+  border-radius: 50%;
+  border-style: none;
+  color: rgb(241, 235, 235);
+  background-color: #b9271d;
+  padding: 5px;
+  position: absolute;
+ 
+ 
+ 
+}
+
+.leftlogologin {
+  padding-left: 20px;
+ 
+}
+.searchlogo{
+  background-color:rgb(231, 229, 229);
+  position: inherit;
+  top: 5px;
+
+  
+  cursor: pointer;
+}
+.leftlogoshoppingCart link:hover{
+color:red;
+}
+.buttomContainer{
+  display: flex;
+  flex-direction: row;
+justify-content: space-between;
+margin: 0px 30px 0px 23px;
+height: 45px;
+}
+.buttomright{
+  display: flex;
+  flex-direction: row;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  -ms-flex-align: center;
+  -webkit-align-items:center;
+  -webkit-box-align: center;
+  align-items: center;
+}
+.head1{
+  color: #62666d;
+  font-size: 14px;
+  padding-right: 16px;
+
+}
+.head2{
+  color: #424750;
+  padding-left: 20px;
+  padding-right: 5px;
+  border-left: 1px solid #E0E0E2;
+}
+.buttomleft{
+  display: flex;
+  flex-direction: row;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  -ms-flex-align: center;
+  -webkit-align-items:center;
+  -webkit-box-align: center;
+  align-items: center;
+ 
+  
+}
+
+

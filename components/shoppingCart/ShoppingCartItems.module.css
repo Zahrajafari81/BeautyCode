@@ -1,0 +1,7 @@
+.outerContainer{
+    display: flex;
+    flex-direction: column;
+    align-items:end;
+    justify-content: center;
+
+}
